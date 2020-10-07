@@ -7,3 +7,9 @@
     box-sizing: border-box;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+h1{
+    font-size: 5.4rem;
+    color: gold;
+    margin-bottom: auto;
+}
